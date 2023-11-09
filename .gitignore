@@ -2,4 +2,6 @@ node_modules/*
 tokens/* 
 Chatgpt.js 
 ChatgptBot.js 
+QrChat.js
+out.png
 package-lock.json
